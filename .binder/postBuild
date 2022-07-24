@@ -1,5 +1,8 @@
 #!/bin/bash
 
+### I am testing ###
+
+
 set -e
 
 # This script is called in a binder context. When this script is called, we are
